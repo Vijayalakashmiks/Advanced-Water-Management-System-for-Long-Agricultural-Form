@@ -8,4 +8,6 @@
   <summary><h2>Block Diagram</h2></summary>
 <br>
   
+![Image](https://github.com/user-attachments/assets/648a43f1-0d66-48a4-860e-b60e35824139)
+  
 
