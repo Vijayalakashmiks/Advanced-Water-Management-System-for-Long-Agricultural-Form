@@ -10,4 +10,18 @@
   
 ![Image](https://github.com/user-attachments/assets/648a43f1-0d66-48a4-860e-b60e35824139)
   
+Advanced Water Management: Central system designed to optimize irrigation using automated sensing and control.
 
+Controllers: Devices that make decisions based on sensor data to regulate water usage.
+
+Climate-based Controllers: Adjust irrigation based on environmental conditions like temperature and humidity.
+
+Soil Moisture Controllers: Manage water supply according to real-time soil moisture levels.
+
+Sensors: Devices that collect environmental data for accurate water management.
+
+Soil Moisture Sensor: Detects the moisture content in the soil to prevent over- or under-watering.
+
+DHT22: A digital sensor that measures ambient temperature and humidity.
+
+Water Level Indicator: Monitors the level of water in tanks or reservoirs to avoid overflow or shortage
