@@ -32,4 +32,10 @@ Water Level Indicator: Monitors the level of water in tanks or reservoirs to avo
 
 ![Image](https://github.com/user-attachments/assets/4e965421-9913-45fa-97b0-3fe3f65ea8e1)
 
+<details>
+  <summary><h2>Benefits</h2></summary>
+<br>
+Optimized Irrigation Practices
+Water Efficiency
+
 
