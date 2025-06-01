@@ -25,3 +25,9 @@ Soil Moisture Sensor: Detects the moisture content in the soil to prevent over- 
 DHT22: A digital sensor that measures ambient temperature and humidity.
 
 Water Level Indicator: Monitors the level of water in tanks or reservoirs to avoid overflow or shortage
+
+<details>
+  <summary><h2>Circuit Diagram</h2></summary>
+<br>
+
+
